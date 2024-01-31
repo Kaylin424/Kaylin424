@@ -2,7 +2,7 @@
 - 👀 I’m interested in leaening more about layer 2 solutions
 - 🌱 I’m currently learning about the staking/restaking
 - 💞️ I’m looking to collaborate on DAO proposals
-- 📫 send me a message if you rae interested!
+- 📫 send me a message if you are interested!
 
 
 <!---
